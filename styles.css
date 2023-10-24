@@ -1,0 +1,42 @@
+body {
+    background-color: #2a2b2e;
+    font-family: "Helvetica", sans-serif, "Roboto";
+    color: white;
+
+  }
+
+section {
+    background-color: #1c2e4a;
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+    height: 95vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+section, button {
+    border-radius: 25px;
+}
+
+h1 {
+    padding: 20px;
+    font-size: 30pt;
+}
+
+button {
+    border-color: white;
+    bottom: 20px;
+}
+
+#input, .reminder, button{
+    max-width: 90%;
+    position: relative;
+    left: 20px;
+}
+
+
+
+
