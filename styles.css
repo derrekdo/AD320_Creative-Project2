@@ -1,3 +1,10 @@
+/* 
+  Name: Derrek Do
+  Date: 10/22/2023
+
+  CSS code for the 'Reminder' app. Adds styling to the html to make it look 
+  like an app on a smart phone, and keeps all content with consistent spacing
+*/
 body {
     background-color: #2a2b2e;
     font-family: "Helvetica", sans-serif, "Roboto";
